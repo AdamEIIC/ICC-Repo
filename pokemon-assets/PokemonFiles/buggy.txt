@@ -1,0 +1,11 @@
+buggy
+grass
+80
+85
+500
+30
+5
+bite
+slam
+hibernate
+jump-attack

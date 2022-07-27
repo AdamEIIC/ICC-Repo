@@ -1,0 +1,11 @@
+birdy
+air
+60
+80
+1000
+50
+10
+nest-up
+claw-swipe
+air-attack
+feather-attack
